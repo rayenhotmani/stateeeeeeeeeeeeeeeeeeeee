@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.card{
+  background-color: #b5e7a0;
+  width: 45%;
+  margin-left: 26%;
+  border-radius: 4px;
+  padding: 2%;
+  margin-top: 3%;
+
+}
+body{
+  background-color:#86af49;
+}
+button{
+   margin: 1px;
+}
+img{
+  height: 5%;
+  width: 30%;
+}
+.card:hover {
+  box-shadow: 1px 3px 8px  #3e4444;
+}
